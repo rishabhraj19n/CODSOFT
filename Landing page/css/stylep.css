@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+
+
+.header{
+    height: 180px;
+    width: 100vw;
+    background-color:#003049;
+    color: #FDF0D5;
+    display: block;
+
+}
+
+.h1{
+    font-size: 40px;
+    position: relative;
+    margin-left : 625px;
+    padding-top: 30px;
+    font-weight: bolder;
+     font-family:monospace;
+}
+
+.h3{
+    position: relative;
+    margin-left : 555px;
+    padding-top: 30px;
+     font-family:monospace;
+}
+
+
+.aboutme{
+    margin-top: 70px;
+    padding-left: 70px;
+    
+
+}
+ 
+
+
+.image{
+    margin-top: 50px;
+    margin-left: 40px;
+    height: 300px;
+    width: 700px;
+    border: 2px dotted yellow;
+    border-radius: 20%;
+    background-image: url("rishabhintrain.jpg");
+    background-size: cover;
+}
+
+
+.flex1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.flex1 p{
+ padding-left: 90px;
+ padding-right: 20px;
+ font-size: 20px;
+ color: rgb(87, 78, 78)
+}
+
+.myskill{
+     margin-top: 70px;
+    padding-left: 70px;
+}
+
+
+
+
+
+.image1{
+    height: 100px;
+    width: 100px;
+    
+    
+      background-image: url("html.jpg.jpeg");
+    background-size: cover;
+}
+
+.image1:hover{
+    transform: scale(1.15,1.15);
+}
+.image2{
+    height: 100px;
+    width: 100px;
+    
+    background-image: url("CSS\ 3\ Logo\ PNG\ Vector\ \(SVG\)\ Free\ Download.jpeg");
+    background-size: cover;
+    
+}
+.image2:hover{
+    transform: scale(1.15,1.15);
+}
+
+.image3{
+    height: 100px;
+    width: 100px;
+    /* background-color: black; */
+    background-image: url(javascript.jpg.jpeg);
+    background-size: cover;
+}
+.image3:hover{
+    transform: scale(1.15,1.15);
+}
+.image4{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    background-image: url(photoshop.jpg.jpeg);
+    background-size: cover;
+}
+.image4:hover{
+    transform: scale(1.15,1.15);
+}
+
+.flex2{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+    
+}
+
+.flex3{
+    
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color:  #007185 ;
+}
+
+.css{
+    margin-left: 70px;
+    padding-left: 20px;
+}
+
+.html{
+    margin-left: 10px;
+    padding-left: 20px;
+}
+
+.cpp{
+    margin-left: 70px;
+}
+
+.photoshop{
+    margin-left: 10px;
+}
+
+.myproject{
+     margin-top: 70px;
+    padding-left: 70px;
+}
+
+.pro1{
+    height: 400px;
+    width: 400px;
+    
+      background-image: url("image5.jpg");
+    background-size: cover;
+}
+
+.pro1{
+    height: 350px;
+    width: 350px;
+    
+      background-image: url("Iconos\ gratuitos\ de\ Calculadora\ diseñados\ por\ BZZRINCANTATION.jpeg");
+    background-size: cover;
+}   
+
+.pro2{
+    height: 350px;
+    width: 350px;
+    
+      background-image: url("amazonclone.jpg");
+    background-size: cover;
+    border-radius: 40px;
+}
+
+
+
+.pro3{
+    height: 350px;
+    width: 350px;
+    
+      background-image: url("Weather\ Forecasting\ Ui\ Dashboard\ Design.jpeg");
+    background-size: contain;
+     border-radius: 40px;
+}
+
+.flex4{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+
+.myresume
+{
+     margin-top: 60px;
+    padding-left: 70px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+   
+}
+
+
+
+
+.myresume p{
+    margin-top: 20px;
+    margin-left: 80px;
+    height: 70px;
+    width: 120px;
+    background-color: white ;
+    color: #007185;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    transition: all 0.4s ease;
+ 
+    
+}
+
+.myresume p:hover {
+    background-color: rgb(234, 208, 208);
+color: red;
+font-size: 25px;
+
+}
+
+.arrow{
+    height: 50px;
+    width: 50px;
+    background-image: url("Resume\ Vector\ Linear\ Cv\ Icon_\ Modern\ Outline\ Logo\ Concept\ on\ White\ Background\ from\ Human\ Resources\ Collection\ Stock\ Vector\ -\ Illustration\ of\ approved\,\ unemployment_\ 252451512.jpeg");
+    background-size: cover;
+   
+
+}
+
+.mycontact{
+     margin-top: 10px;
+    padding-left: 70px;
+}
+
+.imagecont{
+
+    height: 100px;
+    width: 130px;
+    background-image: url(Customer\ service\ icon.jpeg);
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+  
+.phone{
+ margin-top: 20px;
+    padding-left: 70px;
+}
+
+
+
+.copyright{
+
+    margin-top: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+    color: #777;
+    height: 40px;
+    background-color: #003049;
+}
+
+
+

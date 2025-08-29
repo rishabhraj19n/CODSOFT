@@ -1,0 +1,53 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green; 
+    color: brown;
+    font-size: 25px;
+    border-radius: 50%;
+
+}
+#outer{
+    height: 240px;
+    width: 100px;
+    background-color: black;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+
+#logo{
+    color:green;
+    font-size: 25px;
+    margin-left: 20px;
+   
+}
+
+
+button{
+    background-color: green;
+    
+}
+
+input{
+    color: blue;
+    margin-left: 130px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+
+
+
